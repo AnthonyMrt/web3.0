@@ -6,3 +6,5 @@ Vite
 MetaMask
 Alchemy.com
 Tailwind.css
+Solidity (Ethereum)
+Projet rédiger en anglais
